@@ -1,0 +1,15 @@
+C:\Users\arian\OneDrive\Рабочий стол\Знакомство с языками программирования (C#) ДЗ\Семинар 7\Задание 52\bin\Debug\net6.0\Задание 52.exe
+C:\Users\arian\OneDrive\Рабочий стол\Знакомство с языками программирования (C#) ДЗ\Семинар 7\Задание 52\bin\Debug\net6.0\Задание 52.deps.json
+C:\Users\arian\OneDrive\Рабочий стол\Знакомство с языками программирования (C#) ДЗ\Семинар 7\Задание 52\bin\Debug\net6.0\Задание 52.runtimeconfig.json
+C:\Users\arian\OneDrive\Рабочий стол\Знакомство с языками программирования (C#) ДЗ\Семинар 7\Задание 52\bin\Debug\net6.0\Задание 52.dll
+C:\Users\arian\OneDrive\Рабочий стол\Знакомство с языками программирования (C#) ДЗ\Семинар 7\Задание 52\bin\Debug\net6.0\Задание 52.pdb
+C:\Users\arian\OneDrive\Рабочий стол\Знакомство с языками программирования (C#) ДЗ\Семинар 7\Задание 52\obj\Debug\net6.0\Задание 52.csproj.AssemblyReference.cache
+C:\Users\arian\OneDrive\Рабочий стол\Знакомство с языками программирования (C#) ДЗ\Семинар 7\Задание 52\obj\Debug\net6.0\Задание 52.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\arian\OneDrive\Рабочий стол\Знакомство с языками программирования (C#) ДЗ\Семинар 7\Задание 52\obj\Debug\net6.0\Задание 52.AssemblyInfoInputs.cache
+C:\Users\arian\OneDrive\Рабочий стол\Знакомство с языками программирования (C#) ДЗ\Семинар 7\Задание 52\obj\Debug\net6.0\Задание 52.AssemblyInfo.cs
+C:\Users\arian\OneDrive\Рабочий стол\Знакомство с языками программирования (C#) ДЗ\Семинар 7\Задание 52\obj\Debug\net6.0\Задание 52.csproj.CoreCompileInputs.cache
+C:\Users\arian\OneDrive\Рабочий стол\Знакомство с языками программирования (C#) ДЗ\Семинар 7\Задание 52\obj\Debug\net6.0\Задание 52.dll
+C:\Users\arian\OneDrive\Рабочий стол\Знакомство с языками программирования (C#) ДЗ\Семинар 7\Задание 52\obj\Debug\net6.0\refint\Задание 52.dll
+C:\Users\arian\OneDrive\Рабочий стол\Знакомство с языками программирования (C#) ДЗ\Семинар 7\Задание 52\obj\Debug\net6.0\Задание 52.pdb
+C:\Users\arian\OneDrive\Рабочий стол\Знакомство с языками программирования (C#) ДЗ\Семинар 7\Задание 52\obj\Debug\net6.0\Задание 52.genruntimeconfig.cache
+C:\Users\arian\OneDrive\Рабочий стол\Знакомство с языками программирования (C#) ДЗ\Семинар 7\Задание 52\obj\Debug\net6.0\ref\Задание 52.dll
