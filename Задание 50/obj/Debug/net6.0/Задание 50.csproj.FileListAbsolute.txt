@@ -1,0 +1,15 @@
+C:\Users\arian\OneDrive\Рабочий стол\Знакомство с языками программирования (C#) ДЗ\Семинар 7\Задание 50\bin\Debug\net6.0\Задание 50.exe
+C:\Users\arian\OneDrive\Рабочий стол\Знакомство с языками программирования (C#) ДЗ\Семинар 7\Задание 50\bin\Debug\net6.0\Задание 50.deps.json
+C:\Users\arian\OneDrive\Рабочий стол\Знакомство с языками программирования (C#) ДЗ\Семинар 7\Задание 50\bin\Debug\net6.0\Задание 50.runtimeconfig.json
+C:\Users\arian\OneDrive\Рабочий стол\Знакомство с языками программирования (C#) ДЗ\Семинар 7\Задание 50\bin\Debug\net6.0\Задание 50.dll
+C:\Users\arian\OneDrive\Рабочий стол\Знакомство с языками программирования (C#) ДЗ\Семинар 7\Задание 50\bin\Debug\net6.0\Задание 50.pdb
+C:\Users\arian\OneDrive\Рабочий стол\Знакомство с языками программирования (C#) ДЗ\Семинар 7\Задание 50\obj\Debug\net6.0\Задание 50.csproj.AssemblyReference.cache
+C:\Users\arian\OneDrive\Рабочий стол\Знакомство с языками программирования (C#) ДЗ\Семинар 7\Задание 50\obj\Debug\net6.0\Задание 50.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\arian\OneDrive\Рабочий стол\Знакомство с языками программирования (C#) ДЗ\Семинар 7\Задание 50\obj\Debug\net6.0\Задание 50.AssemblyInfoInputs.cache
+C:\Users\arian\OneDrive\Рабочий стол\Знакомство с языками программирования (C#) ДЗ\Семинар 7\Задание 50\obj\Debug\net6.0\Задание 50.AssemblyInfo.cs
+C:\Users\arian\OneDrive\Рабочий стол\Знакомство с языками программирования (C#) ДЗ\Семинар 7\Задание 50\obj\Debug\net6.0\Задание 50.csproj.CoreCompileInputs.cache
+C:\Users\arian\OneDrive\Рабочий стол\Знакомство с языками программирования (C#) ДЗ\Семинар 7\Задание 50\obj\Debug\net6.0\Задание 50.dll
+C:\Users\arian\OneDrive\Рабочий стол\Знакомство с языками программирования (C#) ДЗ\Семинар 7\Задание 50\obj\Debug\net6.0\refint\Задание 50.dll
+C:\Users\arian\OneDrive\Рабочий стол\Знакомство с языками программирования (C#) ДЗ\Семинар 7\Задание 50\obj\Debug\net6.0\Задание 50.pdb
+C:\Users\arian\OneDrive\Рабочий стол\Знакомство с языками программирования (C#) ДЗ\Семинар 7\Задание 50\obj\Debug\net6.0\Задание 50.genruntimeconfig.cache
+C:\Users\arian\OneDrive\Рабочий стол\Знакомство с языками программирования (C#) ДЗ\Семинар 7\Задание 50\obj\Debug\net6.0\ref\Задание 50.dll
